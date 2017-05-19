@@ -1,8 +1,8 @@
 
 
-MVP: a web app that shows all of the hiking trails near San Francisco (what information do we want to display?)
+MVP: a web app that shows all of the hiking trails near San Francisco - done
 
-.1 hike name (links to google search of the name)
+.1 hike name (links to google search of the name) - done
 
 .2 take autofill for cities with google maps api
 
